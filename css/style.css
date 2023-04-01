@@ -393,6 +393,7 @@
     background-color: rgb(23, 12, 150);
 }
 
+
 @media (max-width: 768px) {
     #header-carousel .carousel-item {
         position: relative;
@@ -415,6 +416,9 @@
     .aboutSection .aboutPicture{
         padding-left: 0px !important;
     }
+    .navbar .navbar-brand h1{
+        font-size: 1.2rem;
+    }
 }
 
 @media (max-width: 991.98px) {
@@ -431,6 +435,9 @@
     }
     .aboutSection .aboutPicture{
         padding-left: 0px !important;
+    }
+    .navbar .navbar-brand h1{
+        font-size: 1.2rem;
     }
 }
 
